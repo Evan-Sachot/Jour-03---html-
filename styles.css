@@ -113,5 +113,14 @@ align-items: center;
   justify-content: space-around;
   padding: 100px;
   }
-  
+  footer{
+    display: flex;
+    flex-direction: row;
+  }
+  .lien3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+  }
 }
