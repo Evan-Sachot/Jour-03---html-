@@ -100,5 +100,18 @@ align-items: center;
 }
 }
 @media screen and (min-width:993px) {
+  .para{
+    display: flex;
+    flex-direction: row;
+  }
+  .enjeux{
+  margin: 10px;
+  }
+  .video{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 100px;
+  }
   
 }
